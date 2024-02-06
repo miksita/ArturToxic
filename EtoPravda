@@ -1,0 +1,18 @@
+
+class Point3D {
+  x: number;
+  y: number;
+  z: number;
+};
+
+let threeD: Point3D = new Point3D();
+
+function arturlochar() {
+  let threeD: Point3D;
+};
+
+function Movie3D() {
+  threeD.x = 1;
+  threeD.y = 2;
+  threeD.z = 9;
+};
